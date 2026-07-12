@@ -1,0 +1,20 @@
+# Custom Language File for King War Launcher
+
+[ejs.app]
+title = "King War Launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://github.com/donghune/king_war-launcher"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "#"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/donghune/king_war-launcher"
+supportLink = "https://github.com/donghune/king_war-launcher/issues"
+
+[ejs.welcome]
+welcomeHeader = "KING WAR 동맹전"
+welcomeDescription = "킹워 동맹전은 4팀 2동맹이 맞붙는 60vs60 대규모 전장입니다. 말왕팀·상대팀은 메인 전장에서, 동맹팀은 각자 위더 던전을 돌파해 네더의 별로 합류합니다. 상대 편 왕을 쓰러뜨리면 승리! 자기장이 좁혀지기 전에 전략을 세우세요."
+welcomeDescCTA = "몇 번의 클릭만으로 전장에 입장할 수 있습니다."

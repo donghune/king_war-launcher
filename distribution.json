@@ -1,0 +1,152 @@
+{
+  "version": "1.0.0",
+  "rss": "https://github.com/donghune/king_war-launcher/releases.atom",
+  "servers": [
+    {
+      "id": "king_war-main",
+      "name": "킹워 동맹전 서버",
+      "description": "킹워 동맹전 (King War) - Fabric 1.21.4",
+      "icon": "https://raw.githubusercontent.com/donghune/king_war-launcher/master/app/assets/images/SealCircle.png",
+      "version": "1.0.0",
+      "address": "game.donghune.kr:25571",
+      "minecraftVersion": "1.21.4",
+      "mainServer": true,
+      "autoconnect": true,
+      "javaOptions": {
+        "supported": ">=21.x",
+        "suggestedMajor": 21
+      },
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.18.5",
+          "name": "Fabric Loader",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1959156,
+            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.18.5/fabric-loader-0.18.5.jar"
+          },
+          "subModules": [
+            {
+              "id": "net.fabricmc:intermediary:1.21.4",
+              "name": "Intermediary Mappings",
+              "type": "Library",
+              "artifact": {
+                "size": 701826,
+                "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.9",
+              "name": "ASM",
+              "type": "Library",
+              "artifact": {
+                "size": 126122,
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.9/asm-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.9",
+              "name": "ASM Analysis",
+              "type": "Library",
+              "artifact": {
+                "size": 35149,
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.9",
+              "name": "ASM Commons",
+              "type": "Library",
+              "artifact": {
+                "size": 74348,
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.9",
+              "name": "ASM Tree",
+              "type": "Library",
+              "artifact": {
+                "size": 51947,
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.9",
+              "name": "ASM Util",
+              "type": "Library",
+              "artifact": {
+                "size": 94565,
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.17.0+mixin.0.8.7",
+              "name": "Sponge Mixin",
+              "type": "Library",
+              "artifact": {
+                "size": 1505269,
+                "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "fabric-loader-0.18.5-1.21.4",
+              "name": "Fabric Loader Version Manifest",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2847,
+                "url": "https://raw.githubusercontent.com/donghune/king_war-launcher/master/fabric-loader-0.18.5-1.21.4.json"
+              }
+            }
+          ]
+        },
+        {
+          "id": "net.fabricmc.fabric-api:fabric-api:0.119.4+1.21.4",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2149128,
+            "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/p96k10UR/fabric-api-0.119.4%2B1.21.4.jar"
+          }
+        },
+        {
+          "id": "net.fabricmc:fabric-language-kotlin:1.13.11+kotlin.2.3.21",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7813444,
+            "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/2i87JpYj/fabric-language-kotlin-1.13.11%2Bkotlin.2.3.21.jar"
+          }
+        },
+        {
+          "id": "net.coderbot:iris:1.8.8+1.21.4-fabric",
+          "name": "Iris Shaders",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2682702,
+            "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Ca054sTe/iris-fabric-1.8.8%2Bmc1.21.4.jar"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:0.6.13+mc1.21.4-fabric",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1306799,
+            "url": "https://cdn.modrinth.com/data/AANobbMI/versions/c3YkZvne/sodium-fabric-0.6.13%2Bmc1.21.4.jar"
+          }
+        },
+        {
+          "id": "kr.donghune:king_war_client:1.0-SNAPSHOT",
+          "name": "King War Mod",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 120660,
+            "MD5": "a33fc704b2e756ccccd4403ffe90b3b7",
+            "url": "https://github.com/donghune/king_war-launcher/releases/download/v1.0.0/king_war_client-1.0-SNAPSHOT.jar"
+          }
+        }
+      ]
+    }
+  ]
+}
