@@ -137,6 +137,26 @@
           }
         },
         {
+          "id": "com.xaero:xaerominimap:1.21.4-26.3.0",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2218180,
+            "MD5": "3781f8b82ff3d14ea3e500ffe9c8cde2",
+            "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/N6W6FASQ/xaerominimap-fabric-1.21.4-26.3.0.jar"
+          }
+        },
+        {
+          "id": "com.xaero:xaeroworldmap:1.21.4-1.43.0",
+          "name": "Xaero's World Map",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1438799,
+            "MD5": "42f8e7bc18d15e977b8012bcd0225302",
+            "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/yjFKr1ZZ/xaeroworldmap-fabric-1.21.4-1.43.0.jar"
+          }
+        },
+        {
           "id": "kr.donghune:king_war_client:1.0-SNAPSHOT",
           "name": "King War Mod",
           "type": "FabricMod",
