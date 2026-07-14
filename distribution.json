@@ -137,23 +137,23 @@
           }
         },
         {
-          "id": "com.xaero:xaerominimap:1.21.4-26.3.0",
-          "name": "Xaero's Minimap",
+          "id": "info.journeymap:journeymap-fabric:1.21.4-6.0.0-beta.47",
+          "name": "JourneyMap",
           "type": "FabricMod",
           "artifact": {
-            "size": 2218180,
-            "MD5": "3781f8b82ff3d14ea3e500ffe9c8cde2",
-            "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/N6W6FASQ/xaerominimap-fabric-1.21.4-26.3.0.jar"
+            "size": 3514383,
+            "MD5": "8b092f8cca0a96d80eb8eeea24b5ebfd",
+            "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/bjbTbat1/journeymap-fabric-1.21.4-6.0.0-beta.47.jar"
           }
         },
         {
-          "id": "com.xaero:xaeroworldmap:1.21.4-1.43.0",
-          "name": "Xaero's World Map",
+          "id": "kr.donghune:blue-zone-minimap:1.0-SNAPSHOT",
+          "name": "Blue Zone Minimap",
           "type": "FabricMod",
           "artifact": {
-            "size": 1438799,
-            "MD5": "42f8e7bc18d15e977b8012bcd0225302",
-            "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/yjFKr1ZZ/xaeroworldmap-fabric-1.21.4-1.43.0.jar"
+            "size": 21075,
+            "MD5": "10a90ac91cc22d499c303607a38466aa",
+            "url": "https://github.com/donghune/blue-zone-launcher/releases/download/v1.0.0/blue-zone-minimap-1.0-SNAPSHOT.jar"
           }
         },
         {
