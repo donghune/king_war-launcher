@@ -161,8 +161,8 @@
           "name": "King War Mod",
           "type": "FabricMod",
           "artifact": {
-            "size": 121792,
-            "MD5": "624e06728455e5fdfdd132e5b014453a",
+            "size": 122966,
+            "MD5": "e0aaefcc78a25358c40c63f72243d01b",
             "url": "https://github.com/donghune/king_war-launcher/releases/download/v1.0.0/king_war_client-1.0-SNAPSHOT.jar"
           }
         },
