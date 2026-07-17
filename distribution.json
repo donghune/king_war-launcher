@@ -167,16 +167,6 @@
           }
         },
         {
-          "id": "com.replaymod:replaymod:1.21.4-2.6.23",
-          "name": "ReplayMod",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 14830255,
-            "MD5": "6ce50ba370138f90f54f3d84927ba68f",
-            "url": "https://cdn.modrinth.com/data/Nv2fQJo5/versions/Ax2S4lln/replaymod-1.21.4-2.6.23.jar"
-          }
-        },
-        {
           "id": "com.complementary:reimagined:r5.8.1",
           "name": "Complementary Reimagined",
           "type": "File",
@@ -196,6 +186,16 @@
             "MD5": "cd91de48ddc199ebd09f577e9146aef5",
             "path": "optionsshaders.txt",
             "url": "https://github.com/donghune/king_war-launcher/releases/download/v1.0.0/optionsshaders.txt"
+          }
+        },
+        {
+          "id": "com.moulberry:flashback:0.39.5-1.21.4",
+          "name": "Flashback",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 210807558,
+            "MD5": "66b2d751f296a364c1dab88f643ca6a8",
+            "url": "https://cdn.modrinth.com/data/4das1Fjq/versions/jvaWedMz/Flashback-0.39.5-for-MC1.21.4.jar"
           }
         }
       ]
