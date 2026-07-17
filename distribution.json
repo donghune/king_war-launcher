@@ -197,6 +197,17 @@
             "MD5": "66b2d751f296a364c1dab88f643ca6a8",
             "url": "https://cdn.modrinth.com/data/4das1Fjq/versions/jvaWedMz/Flashback-0.39.5-for-MC1.21.4.jar"
           }
+        },
+        {
+          "id": "iris.properties",
+          "name": "Iris Config (auto-enable shader)",
+          "type": "File",
+          "artifact": {
+            "size": 155,
+            "MD5": "172c368968da63febc4117895bc0fc22",
+            "path": "config/iris.properties",
+            "url": "https://github.com/donghune/king_war-launcher/releases/download/v1.0.0/iris.properties"
+          }
         }
       ]
     }
